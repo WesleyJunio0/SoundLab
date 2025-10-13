@@ -1,6 +1,6 @@
 # 🎵 Réplica do Spotify
 
-Este projeto é uma réplica visual e funcional inspirada na interface do Spotify. Foi desenvolvido como aplicação **fullstack**, utilizando **React** no front-end e **Node.js** no back-end. Os dados de artistas e músicas são simulados por meio de objetos JavaScript organizados em arquivos e expostos por uma API local.
+Este projeto é uma réplica visual e funcional inspirada na interface do Spotify. Foi desenvolvido como aplicação **fullstack**, utilizando **React** no front-end e **express** no back-end. Os dados de artistas e músicas são simulados por meio de objetos JavaScript organizados em arquivos e expostos por uma API local.
 
 ---
 
