@@ -1,35 +1,44 @@
-# 🎵 Réplica do Spotify
+# # 🎧 SoundLab
 
-Este projeto é uma réplica visual e funcional inspirada na interface do Spotify. Foi desenvolvido como aplicação **fullstack**, utilizando **React** no front-end e **express** no back-end. Os dados de artistas e músicas são simulados por meio de objetos JavaScript organizados em arquivos e expostos por uma API local.
+**SoundLab** é um projeto experimental desenvolvido para testar e aprimorar meus conhecimentos em **React** e **integração com backend**.
+
+ O app simula uma plataforma de músicas, exibindo cards de artistas e um player funcional.  
+A interface é inspirada na paleta de cores do Spotify, mas o foco principal está na **construção da arquitetura e da comunicação entre front-end e back-end**.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-### 🖥️ Front-end
+## 🚀 Tecnologias utilizadas
+### 🔹 Front-end
 - React
-- JavaScript
-- HTML5
-- CSS3
+- Axios (requisições HTTP)
+- React Hook
+- CSS
 
-### 🗄️ Back-end
-- Node.js
-- Express
-- MongoDB(banco de dados não relacional).
+### 🔹 Back-end
+- Node.js e Express
+- MongoDb (Banco de dados NoSQL).
+---
+
+## 💡 Objetivo do projeto
+- Consolidar conceitos de **componentização** no React;
+- Praticar **requisições HTTP** e **tratamento de dados** vindos da API;
+- Exercitar **integração front–back**;
+- Criar uma **UI interativa e responsiva**, com lógica de player e manipulação de estado.
+
+## ⚙️ Funcionalidades
+- Listagem de músicas e artistas (dados vindos da API)
+- Player funcional com botões de controle
+- Design inspirado no Spotify (cores e layout)
+- Comunicação entre React e o back-end
 
 ---
 
-## 📦 Funcionalidades
-- Interface inspirada no design do Spotify
-- Listagem de artistas e músicas com imagens, nomes, IDs e links
-- Organização por estilos musicais (ex: Sertanejo, Pagode)
-- Navegação entre seções
-- Responsividade para diferentes tamanhos de tela
-- Comunicação com o back-end via API (fetch ou axios)
 
----
-
-
+## ⚠️ Nota
+O projeto **não reproduz músicas reais** por motivos de direitos autorais.  
+Ele foi criado com fins **educacionais e de portfólio**.
 
 
 # React + Vite
