@@ -1,9 +1,7 @@
 import axios from "axios";
 
-const url = "http://localhost:3000";
-
 const api = axios.create({
-  baseURL: "http://localhost:3000",
+  baseURL: "https://soundlab.onrender.com/",
 });
 
 //const reponseArtist = await axios.get(`${url}/Artists`);
