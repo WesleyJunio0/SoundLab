@@ -3,7 +3,7 @@ import Header from "./componentes/Header.jsx";
 //Pacotes externos
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 //páginas do projeto
-import Home from "./pages/home.jsx";
+import Home from "./pages/Home.jsx";
 import Artist from "./pages/Artist.jsx";
 import Songs from "./pages/Songs.jsx";
 import Song from "./pages/Song.jsx";
